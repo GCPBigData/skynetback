@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/comons/comons.iml" filepath="$PROJECT_DIR$/comons/comons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/skynet.iml" filepath="$PROJECT_DIR$/.idea/skynet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/skynet-reative/skynet-reative.iml" filepath="$PROJECT_DIR$/skynet-reative/skynet-reative.iml" />
+    </modules>
+  </component>
+</project>

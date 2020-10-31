@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="049195e5-c8da-462a-a612-a37e46b2eb75" name="Default Changelist" comment="kafka update configuracao" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="2c03f652-d947-4938-a6a7-0abe85397b02" />
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1fJSFZJXkeRCrjFdfHGOaVim6ZT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="debugInitializationType" value="AGENT" />
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/java/br/sisvida/tensoflow/ipynb" />
+      <recent name="$PROJECT_DIR$/img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/training" />
+      <recent name="$PROJECT_DIR$/training/model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringSisVidaApplication">
+    <configuration name="ServerGenerateEventsApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.sisvida.conf.ServerGenerateEventsApplication" />
+      <module name="sisvida" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.sisvida.conf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringSisVidaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sisvida" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.sisvida.SpringSisVidaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="docker-compose.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml.kafka: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="kafka" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml.sisvida-mongodb: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="sisvida-mongodb" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml.zookeeper: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="zookeeper" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
+        <item itemvalue="Docker.docker-compose.yml.sisvida-mongodb: Compose Deployment" />
+        <item itemvalue="Docker.docker-compose.yml.zookeeper: Compose Deployment" />
+        <item itemvalue="Docker.docker-compose.yml.kafka: Compose Deployment" />
+        <item itemvalue="Application.ServerGenerateEventsApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="049195e5-c8da-462a-a612-a37e46b2eb75" name="Default Changelist" comment="" />
+      <created>1595934599380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595934599380</updated>
+      <workItem from="1595934609138" duration="16000" />
+      <workItem from="1595937217054" duration="784000" />
+      <workItem from="1595938043283" duration="1580000" />
+      <workItem from="1595939628894" duration="385000" />
+      <workItem from="1595940405531" duration="16056000" />
+      <workItem from="1595956717194" duration="6203000" />
+      <workItem from="1596001411456" duration="9103000" />
+      <workItem from="1596036798064" duration="375000" />
+      <workItem from="1596037207546" duration="4127000" />
+      <workItem from="1596087809755" duration="887000" />
+      <workItem from="1596104609272" duration="3488000" />
+      <workItem from="1596110311485" duration="134000" />
+    </task>
+    <task id="LOCAL-00001" summary="tensorflow pom add">
+      <created>1595938276243</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595938276243</updated>
+    </task>
+    <task id="LOCAL-00002" summary="tensorflow pom add">
+      <created>1595939711173</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595939711173</updated>
+    </task>
+    <task id="LOCAL-00003" summary="tensorflow pom add">
+      <created>1595940674351</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1595940674351</updated>
+    </task>
+    <task id="LOCAL-00004" summary="tensorflow pom add">
+      <created>1595942262228</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1595942262228</updated>
+    </task>
+    <task id="LOCAL-00005" summary="tensorflow pom add">
+      <created>1595942731441</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1595942731441</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update KafkaController">
+      <created>1595946490301</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1595946490301</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update KafkaController">
+      <created>1595954163282</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1595954163282</updated>
+    </task>
+    <task id="LOCAL-00008" summary="comentei spring SecurityConfig para nao atrapalhar.">
+      <created>1595957300626</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1595957300626</updated>
+    </task>
+    <task id="LOCAL-00009" summary="comentei spring SecurityConfig para nao atrapalhar.">
+      <created>1595959059532</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1595959059532</updated>
+    </task>
+    <task id="LOCAL-00010" summary="comentei spring SecurityConfig para nao atrapalhar.">
+      <created>1595962178049</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1595962178049</updated>
+    </task>
+    <task id="LOCAL-00011" summary="comentei spring SecurityConfig para nao atrapalhar.">
+      <created>1596005028703</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1596005028703</updated>
+    </task>
+    <task id="LOCAL-00012" summary="kafka update configuracao">
+      <created>1596005439089</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1596005439089</updated>
+    </task>
+    <task id="LOCAL-00013" summary="kafka update configuracao">
+      <created>1596005595871</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1596005595871</updated>
+    </task>
+    <task id="LOCAL-00014" summary="kafka update configuracao">
+      <created>1596006503157</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1596006503157</updated>
+    </task>
+    <task id="LOCAL-00015" summary="kafka update configuracao">
+      <created>1596006552740</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1596006552740</updated>
+    </task>
+    <task id="LOCAL-00016" summary="kafka update configuracao">
+      <created>1596009421009</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1596009421009</updated>
+    </task>
+    <task id="LOCAL-00017" summary="kafka update configuracao">
+      <created>1596009484249</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1596009484249</updated>
+    </task>
+    <task id="LOCAL-00018" summary="kafka update configuracao">
+      <created>1596009514670</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1596009514670</updated>
+    </task>
+    <task id="LOCAL-00019" summary="kafka update configuracao">
+      <created>1596037577320</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1596037577320</updated>
+    </task>
+    <task id="LOCAL-00020" summary="kafka update configuracao">
+      <created>1596107611822</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1596107611822</updated>
+    </task>
+    <task id="LOCAL-00021" summary="kafka update configuracao">
+      <created>1596110359380</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1596110359380</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="tensorflow pom add" />
+    <MESSAGE value="update KafkaController" />
+    <MESSAGE value="comentei spring SecurityConfig para nao atrapalhar." />
+    <MESSAGE value="kafka update configuracao" />
+    <option name="LAST_COMMIT_MESSAGE" value="kafka update configuracao" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1459" y="354" width="640" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596004626412">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state x="1459" y="354" width="640" height="403" key="#com.intellij.fileTypes.FileTypeChooser/0.27.2560.1053/2560.0.1280.1024@0.27.2560.1053" timestamp="1596004626412" />
+    <state x="1366" y="272" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1596039283354">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state x="1366" y="272" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/0.27.2560.1053/2560.0.1280.1024@0.27.2560.1053" timestamp="1596039283354" />
+    <state x="1570" y="228" width="375" height="661" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1595944975864">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state x="1570" y="228" width="375" height="661" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.27.2560.1053/2560.0.1280.1024@0.27.2560.1053" timestamp="1595944975864" />
+    <state x="1633" y="311" width="576" height="493" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1595946678426">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state x="1633" y="311" width="576" height="493" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.27.2560.1053/2560.0.1280.1024@0.27.2560.1053" timestamp="1595946678426" />
+    <state x="192" y="27" width="1270" height="1053" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1596005540271">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state x="192" y="27" width="1270" height="1053" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.27.2560.1053/2560.0.1280.1024@0.27.2560.1053" timestamp="1596005540271" />
+    <state x="1350" y="261" width="666" height="592" key="#docker-compose.yml.sisvida-mongodb:_Compose_Deployment" timestamp="1595956673383">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state x="1350" y="261" width="666" height="592" key="#docker-compose.yml.sisvida-mongodb:_Compose_Deployment/0.27.2560.1053/2560.0.1280.1024@0.27.2560.1053" timestamp="1595956673383" />
+    <state width="1280" height="941" key="GridCell.Tab.0.bottom" timestamp="1596108364252">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state width="1280" height="941" key="GridCell.Tab.0.bottom/0.27.2560.1053/2560.0.1280.1024@0.27.2560.1053" timestamp="1596108364252" />
+    <state width="1280" height="941" key="GridCell.Tab.0.center" timestamp="1596108364251">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state width="1280" height="941" key="GridCell.Tab.0.center/0.27.2560.1053/2560.0.1280.1024@0.27.2560.1053" timestamp="1596108364251" />
+    <state width="1280" height="941" key="GridCell.Tab.0.left" timestamp="1596108364251">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state width="1280" height="941" key="GridCell.Tab.0.left/0.27.2560.1053/2560.0.1280.1024@0.27.2560.1053" timestamp="1596108364251" />
+    <state width="1280" height="941" key="GridCell.Tab.0.right" timestamp="1596108364252">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state width="1280" height="941" key="GridCell.Tab.0.right/0.27.2560.1053/2560.0.1280.1024@0.27.2560.1053" timestamp="1596108364252" />
+    <state width="1280" height="941" key="GridCell.Tab.1.bottom" timestamp="1596108364252">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state width="1280" height="941" key="GridCell.Tab.1.bottom/0.27.2560.1053/2560.0.1280.1024@0.27.2560.1053" timestamp="1596108364252" />
+    <state width="1280" height="941" key="GridCell.Tab.1.center" timestamp="1596108364252">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state width="1280" height="941" key="GridCell.Tab.1.center/0.27.2560.1053/2560.0.1280.1024@0.27.2560.1053" timestamp="1596108364252" />
+    <state width="1280" height="941" key="GridCell.Tab.1.left" timestamp="1596108364252">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state width="1280" height="941" key="GridCell.Tab.1.left/0.27.2560.1053/2560.0.1280.1024@0.27.2560.1053" timestamp="1596108364252" />
+    <state width="1280" height="941" key="GridCell.Tab.1.right" timestamp="1596108364252">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state width="1280" height="941" key="GridCell.Tab.1.right/0.27.2560.1053/2560.0.1280.1024@0.27.2560.1053" timestamp="1596108364252" />
+    <state width="1611" height="274" key="GridCell.Tab.2.bottom" timestamp="1595956680664">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state width="1611" height="274" key="GridCell.Tab.2.bottom/0.27.2560.1053/2560.0.1280.1024@0.27.2560.1053" timestamp="1595956680664" />
+    <state width="1611" height="274" key="GridCell.Tab.2.center" timestamp="1595956680664">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state width="1611" height="274" key="GridCell.Tab.2.center/0.27.2560.1053/2560.0.1280.1024@0.27.2560.1053" timestamp="1595956680664" />
+    <state width="1611" height="274" key="GridCell.Tab.2.left" timestamp="1595956680664">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state width="1611" height="274" key="GridCell.Tab.2.left/0.27.2560.1053/2560.0.1280.1024@0.27.2560.1053" timestamp="1595956680664" />
+    <state width="1611" height="274" key="GridCell.Tab.2.right" timestamp="1595956680664">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state width="1611" height="274" key="GridCell.Tab.2.right/0.27.2560.1053/2560.0.1280.1024@0.27.2560.1053" timestamp="1595956680664" />
+    <state x="1301" y="210" width="1022" height="737" key="SettingsEditor" timestamp="1596107308517">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state x="1301" y="210" width="1022" height="737" key="SettingsEditor/0.27.2560.1053/2560.0.1280.1024@0.27.2560.1053" timestamp="1596107308517" />
+    <state x="1358" y="291" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1596110366665">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state x="1358" y="291" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.2560.1053/2560.0.1280.1024@0.27.2560.1053" timestamp="1596110366665" />
+    <state x="1495" y="313" width="524" height="486" key="extract.method.dialog" timestamp="1596040045177">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state x="1495" y="313" width="524" height="486" key="extract.method.dialog/0.27.2560.1053/2560.0.1280.1024@0.27.2560.1053" timestamp="1596040045177" />
+    <state x="1541" y="299" width="477" height="521" key="refactoring.ChangeSignatureDialog" timestamp="1596105264591">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state x="1541" y="299" width="477" height="521" key="refactoring.ChangeSignatureDialog/0.27.2560.1053/2560.0.1280.1024@0.27.2560.1053" timestamp="1596105264591" />
+  </component>
+</project>
