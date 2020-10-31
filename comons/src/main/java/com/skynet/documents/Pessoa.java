@@ -45,12 +45,8 @@ public class Pessoa {
     String mae;
     Time horanascimento;
     TipoPessoa tipopessoa;
-    Area area;
     Pessoa medico;
     Pessoa enfermeiro;
-    Procedimento procedimento;
-    Exame exame;
-    Laudo laudo;
    // Perfil perfil;
     LocalDateTime datacadastro = LocalDateTime.now();
     //LocalDateTime vistoDataVencimento = LocalDateTime.now().plusMonths(3); //adiciona mais 3 meses
@@ -86,16 +82,12 @@ public class Pessoa {
         this.obs = objPessoa.obs;
         this.datacadastro = objPessoa.datacadastro;
         this.tipopessoa = objPessoa.tipopessoa;
-        this.area = objPessoa.area;
         this.medico = objPessoa.medico;
         this.enfermeiro = objPessoa.enfermeiro;
-        this.procedimento = objPessoa.procedimento;
         this.pai = objPessoa.pai;
         this.mae = objPessoa.mae;
         this.horanascimento = objPessoa.horanascimento;
-        this.exame = objPessoa.exame;
-        this.laudo = objPessoa.laudo;
-        this.area = objPessoa.area;
+
     }
 
     public Pessoa(String id, String nome, String cpf,
@@ -106,8 +98,7 @@ public class Pessoa {
                   String sexo, String etinia, String raca, String sangue,
                   String doador, String imagem, String obs, String pai,
                   String mae, Time horanascimento, TipoPessoa tipopessoa,
-                  Area area, Pessoa medico, Pessoa enfermeiro,
-                  Procedimento procedimento, Exame exame, Laudo laudo,
+                  Pessoa medico, Pessoa enfermeiro,
                   LocalDateTime datacadastro) {
         this.id = id;
         this.nome = nome;
@@ -137,12 +128,10 @@ public class Pessoa {
         this.mae = mae;
         this.horanascimento = horanascimento;
         this.tipopessoa = tipopessoa;
-        this.area = area;
+
         this.medico = medico;
         this.enfermeiro = enfermeiro;
-        this.procedimento = procedimento;
-        this.exame = exame;
-        this.laudo = laudo;
+
         this.datacadastro = datacadastro;
     }
 
@@ -370,13 +359,6 @@ public class Pessoa {
         this.tipopessoa = tipopessoa;
     }
 
-    public Area getArea() {
-        return area;
-    }
-
-    public void setArea(Area area) {
-        this.area = area;
-    }
 
     public Pessoa getMedico() {
         return medico;
@@ -394,29 +376,6 @@ public class Pessoa {
         this.enfermeiro = enfermeiro;
     }
 
-    public Procedimento getProcedimento() {
-        return procedimento;
-    }
-
-    public void setProcedimento(Procedimento procedimento) {
-        this.procedimento = procedimento;
-    }
-
-    public Exame getExame() {
-        return exame;
-    }
-
-    public void setExame(Exame exame) {
-        this.exame = exame;
-    }
-
-    public Laudo getLaudo() {
-        return laudo;
-    }
-
-    public void setLaudo(Laudo laudo) {
-        this.laudo = laudo;
-    }
 
     public LocalDateTime getDatacadastro() {
         return datacadastro;

@@ -26,66 +26,7 @@ import java.util.stream.Collectors;
 @RequestMapping("pessoa")
 @RestController
 public class PessoaController {
-/*
-{
-    "nome": "ALEXANDRE NORMANDIA DA ROCHA",
-    "cpf": "6452545225888",
-    "sus": "6452545225888",
-    "matricula": "6452545225888",
-    "crm": "6452545225888",
-    "estado": "CE",
-    "cidade": "FORTALEZA",
-    "endereco": "RUA DOS JAVA",
-    "bairro": "CENTRO",
-    "cep": "60604440",
-    "telefone": "+56 699125465465",
-    "email": "email@gmail.com",
-    "status": "Ativo",
-    "profissao": "Programador",
-    "especialidade": "CIENCIA DE DADOS",
-    "data-nascimento": "2000-02-02",
-    "sexo": "M",
-    "etinia": "BRANCA",
-    "raca": "BRANCA",
-    "sangue": "A+",
-    "doador": "SIM",
-    "imagem": "www.google.com",
-    "obs": "SEM OBS",
-    "pai": "PAI JOSE",
-    "mae": "MAE MARIA",
-    "horanascimento":null,
-    "area": {
-             "descricao":"UTI",
-             "leito":{
-                 "descricao":"L2323"
-                 }
-             },
-    "tipopessoa": {
-        "descricao":"Paciente"
-        },
-    "medico": {
-        "nome":"DR. NIETZSCHE"
-        },
-    "enfermeiro": {
-        "nome":"RONILSON REIS"
-        },
-    "exame": {
-        "descricao":"EXAME SANGUE",
-        "procedimento":{"descricao":"TORAX"},
-        "modalidade":{"descricao":"DX"},
-        "datacadastro":null,
-        "laudo":{"descricao":"PENDENTE"}
 
-        },
-    "laudo": {
-        "descricao":"LAUDO DE COVID19"
-        },
-    "procedimento": {
-        "descricao":"PROCEDIMENTO INVASIVO"
-        },
-    "datacadastro": "2020-08-01T21:26:14.913736"
-}
- */
     @Autowired
     PessoaService pessoaService;
 

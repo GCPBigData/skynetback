@@ -1,6 +1,5 @@
 package br.skynet.dto;
 
-import com.skynet.documents.Area;
 import com.skynet.documents.Pessoa;
 import com.skynet.documents.TipoPessoa;
 import lombok.*;
@@ -44,7 +43,6 @@ public class PessoaBuscaDTO {
     String doador;
     String imagem;
     String obs;
-    Area area;
     TipoPessoa tipopessoa;
     // Perfil perfil;
     LocalDateTime datacadastro;
@@ -76,7 +74,6 @@ public class PessoaBuscaDTO {
         obs = objPessoa.getObs();
         datacadastro = objPessoa.getDatacadastro();
         tipopessoa = objPessoa.getTipopessoa();
-        area = objPessoa.getArea();
     }
 
     public String getId() {
@@ -269,14 +266,6 @@ public class PessoaBuscaDTO {
 
     public void setObs(String obs) {
         this.obs = obs;
-    }
-
-    public Area getArea() {
-        return area;
-    }
-
-    public void setArea(Area area) {
-        this.area = area;
     }
 
     public TipoPessoa getTipopessoa() {

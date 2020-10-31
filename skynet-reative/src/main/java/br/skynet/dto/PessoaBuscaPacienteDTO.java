@@ -70,7 +70,6 @@ public class PessoaBuscaPacienteDTO {
         doador = objPessoa.getDoador();
         imagem = objPessoa.getImagem();
         datacadastro = objPessoa.getDatacadastro();
-        area = objPessoa.getArea().getDescricao();
         tipopessoa = objPessoa.getTipopessoa().getDescricao();
         obs = objPessoa.getObs();
 
